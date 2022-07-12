@@ -4,7 +4,8 @@
 APP with two buttons
 
 ### App Walk-though
-![](https://i.imgur.com/EFcZZsC.gif)
+![](https://i.imgur.com/d7X25QR.gif)
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
